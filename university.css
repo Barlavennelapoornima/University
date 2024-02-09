@@ -1,0 +1,373 @@
+.flat1 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 1px 1px rgba(0, 0, 255, 0.203);
+}
+.flat2 {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 1px 1px rgba(0, 0, 255, 0.203);
+}
+.flatpack1 {
+  display: flex;
+  flex-direction: row;
+}
+.flat3 {
+  font-size: 14px;
+  color: rgba(0, 128, 0, 0.582);
+}
+#fb {
+  font-size: 30px;
+  color: rgba(128, 128, 128, 0.55);
+}
+#fb:hover {
+  color: blue;
+}
+
+#tweet {
+  font-size: 30px;
+  color: rgba(128, 128, 128, 0.55);
+}
+#tweet:hover {
+  color: rgb(6, 134, 185);
+}
+#you {
+  font-size: 30px;
+  color: rgba(128, 128, 128, 0.55);
+}
+#you:hover {
+  color: red;
+}
+.stay1 {
+  font-size: 18px;
+  color: grey;
+}
+.stay {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+.flatstay {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 600px;
+  padding-bottom: 20px;
+}
+.universityimage {
+  padding-top: 20px;
+}
+.power {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 35px;
+  padding: 25px;
+  background-color: rgba(128, 128, 128, 0.144);
+}
+.student1 {
+  font-size: 20px;
+  font-weight: bolder;
+  padding: 10px 0px;
+}
+.student2 {
+  font-size: 16px;
+  color: darkslategray;
+  padding: 5px 0px;
+}
+.student3 {
+  background-color: rgb(31, 89, 113);
+  padding: 5px;
+  color: white;
+  text-align: center;
+  width: 100px;
+  border-radius: 5px;
+  margin-left: 100px;
+}
+.student4 {
+  background-color: rgb(59, 160, 59);
+  padding: 5px;
+  color: white;
+  text-align: center;
+  width: 100px;
+  border-radius: 5px;
+  margin-left: 100px;
+}
+.student5 {
+  background-color: rgb(190, 94, 59);
+  padding: 5px;
+  color: white;
+  text-align: center;
+  width: 100px;
+  border-radius: 5px;
+  margin-left: 100px;
+}
+.student6 {
+  background-color: rgb(168, 58, 58);
+  padding: 5px;
+  color: white;
+  text-align: center;
+  width: 100px;
+  border-radius: 5px;
+  margin-left: 100px;
+}
+.apply {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  gap: 40px;
+  margin-left: 100px;
+}
+.quality {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.quality3 {
+  font-size: 25px;
+}
+.quality4 {
+  font-size: 18px;
+  color: gray;
+  padding: 20px 0px;
+}
+.qualityimage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.lorem1 {
+  font-size: 25px;
+}
+.lorem2 {
+  font-size: 17px;
+  color: grey;
+}
+.lorem4 {
+  background-color: rgb(124, 206, 124);
+  padding: 10px 20px;
+  color:white;
+  font-size:18px;
+}
+#label1 {
+  width: 200px;
+  padding: 10px;
+}
+#label2 {
+  width: 220px;
+  padding: 10px;
+}
+.lorem {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 20px;
+  background-color: rgba(128, 128, 128, 0.151);
+  padding: 30px;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 50px 0px;
+}
+.client1 {
+  font-size: 25px;
+  color: darkslategray;
+}
+.client2 {
+  font-size: 20px;
+  color: darkslategray;
+}
+.client {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 3px;
+  padding-left: 60px;
+  padding-top: 30px;
+}
+.people2 {
+  font-size: 18px;
+  color: grey;
+}
+.people5 {
+  font-size: 18px;
+  color: rgb(104, 238, 104);
+}
+.people4 {
+  font-size: 18px;
+  color: rgb(234, 234, 81);
+}
+.paint {
+  border-radius: 50px;
+}
+.paint1 {
+  background-color: rgba(128, 128, 128, 0.174);
+  padding: 15px 5px;
+}
+.people3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+}
+.people {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 2px rgba(128, 128, 128, 0.352) solid;
+}
+.people1 {
+  background-color: #fff;
+  padding: 10px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  margin-left: 40px;
+  padding: 50px;
+}
+.last2 {
+  font-size: 17px;
+  color: grey;
+}
+.last3 {
+  font-size: 17px;
+  color: rgb(227, 90, 41);
+}
+#like {
+  color: white;
+}
+.last7 {
+  color: white;
+}
+.last1 {
+  display: flex;
+  flex-direction: row;
+}
+.last6 {
+  border: 1px black solid;
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.last9 {
+  border: 1px rgb(67, 167, 207) solid;
+  background-color: rgb(14, 139, 188);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.last8 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.last {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 120px;
+  padding: 20px;
+}
+.last4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.universityimage{
+    background-image:radial-gradient(rgba(185, 161, 161, 0.21), rgba(19, 18, 18, 0.648)),url("https://pixfort.website/themeforest/landing/flatpack/6_university/images/6_university/Bg.png");
+ width:1500px;
+ height:500px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-attachment: fixed;
+  position: relative;
+ padding:30px 0px;
+}
+.university2{
+font-size: 35px;
+font-weight: bolder;
+color:white;
+}
+.university3{
+    font-size: 35px;
+    color:gray;
+    font-weight: bolder;
+}
+.event1{
+    font-size: 18px;
+    color:white;
+}
+.event{
+border:1px green solid;
+background-color: rgb(56, 176, 56);
+padding:10px ;
+}
+.event2{
+    border:1px orangered solid;
+    background-color: rgb(221, 97, 52);
+    padding: 10px 20px ;    
+}
+.clientpeople{
+    background-color: rgba(128, 128, 128, 0.203);
+}
+
+.note{
+    font-size: 15px;
+    color:white;
+}
+.university1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+}
+.events{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:20px;
+}
+.total{
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+    position:absolute;
+    bottom:230px;
+    right:400px;
+}
